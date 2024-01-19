@@ -1,0 +1,1 @@
+import{j as e}from"./index.NyqdEc.js";import"./react-FUmFRwMx.js";import"./antd-fYHaUULU.js";const m=()=>e.jsxDEV("div",{children:"Example react page..."},void 0,!1,{fileName:"/home/runner/work/react-hooks-admin/react-hooks-admin/src/views/example/test-react.tsx",lineNumber:1,columnNumber:32},void 0);export{m as default};

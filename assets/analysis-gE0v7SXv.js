@@ -1,0 +1,1 @@
+import{j as e}from"./index.NyqdEc.js";import{I as r}from"./index-Dku0k-Sy.js";import"./react-FUmFRwMx.js";import"./antd-fYHaUULU.js";const n=()=>e.jsxDEV(r,{children:"analysis"},void 0,!1,{fileName:"/home/runner/work/react-hooks-admin/react-hooks-admin/src/views/dashboard/analysis.tsx",lineNumber:4,columnNumber:10},void 0);export{n as default};

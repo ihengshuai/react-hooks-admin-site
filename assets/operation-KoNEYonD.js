@@ -1,0 +1,1 @@
+import{j as e}from"./index.NyqdEc.js";import{I as o}from"./index-Dku0k-Sy.js";import"./react-FUmFRwMx.js";import"./antd-fYHaUULU.js";const n=()=>e.jsxDEV(o,{children:"TableOperationPage"},void 0,!1,{fileName:"/home/runner/work/react-hooks-admin/react-hooks-admin/src/views/table/operation.tsx",lineNumber:3,columnNumber:34},void 0);export{n as default};
